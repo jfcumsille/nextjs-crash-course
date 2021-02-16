@@ -10,7 +10,7 @@ const iframe = () => {
           title="Test Continuum"
           width="1024"
           height="720"
-          src="https://2a26269777f5.ngrok.io/applicant?continuum_token=token">
+          src="https://681aea312ca8.ngrok.io/applicant?continuum_token=token">
       </embed>
     </div>
   )
